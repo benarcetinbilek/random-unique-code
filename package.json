@@ -1,0 +1,29 @@
+{
+  "name": "random-unique-code",
+  "version": "1.0.0",
+  "description": "Random unique ID code generator for MongoDB documents",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/highpriv/random-unique-code.git"
+  },
+  "keywords": [
+    "random",
+    "generate",
+    "object",
+    "code",
+    "id",
+    "mongo",
+    "mongodb",
+    "nodejs"
+  ],
+  "author": "Canberk Beren",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/highpriv/random-unique-code/issues"
+  },
+  "homepage": "https://github.com/highpriv/random-unique-code#readme"
+}
